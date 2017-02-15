@@ -1,0 +1,33 @@
+/*================================================================================
+	Author: Edyl jay I Templado;
+================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN CSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+
+
+
+#plantwrapper{
+	padding: 20px;
+}
+
+
+.plant_profile_pic{
+		 display: block;
+		margin: auto;
+    	width: 50%;
+		height: 150px;
+		border-radius: 50%;
+}
+
+.plant_name_style{
+	text-align: center;
+}
+
+#plotcontainer{
+    padding: 15px 15px 15px 15px;
+    width: 60%;
+    height: 300px;
+}
